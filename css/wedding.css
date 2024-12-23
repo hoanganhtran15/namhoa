@@ -1,10 +1,3 @@
-#box-gift {
-    display: flex;
-    justify-content: center; /* Căn giữa theo chiều ngang */
-    align-items: center;    /* Căn giữa theo chiều dọc */
-    margin-top: 20px;       /* Tạo khoảng cách phía trên nếu cần */
-  }
-
 /* title-font */
 @font-face {
     font-family: title-font;
